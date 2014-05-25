@@ -1,4 +1,4 @@
-|Variable Name|Variable type|Values (range of values for numeric)|Description|
+|Variable Name|Variable type|Range of values|Description|
 |:--------------------------|:--------------|:-----------|--------------------------------------------------------------------------------------------------:|
 |subject|integer|1-30|Subject id numbers (n=30)|
 |activity|factor|walking, walkingupstairs, walkingdownstairs, sitting, standing, laying|Activity: walking, walking upstairs, walking downstairs, sitting, standing, laying|
